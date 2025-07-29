@@ -1,0 +1,43 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics embed
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          # Github token
+          token: ${{ secrets.SECRET_README }}
+
+          retries: 3
+          retries_delay: 300
+
+          # Options
+          user: Kaleido-subs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories: 250
+          repositories_skipped:
+            .github
+            project-template
+            fansub-git-guide
+          config_timezone: Europe/Amsterdam
+          config_output: png
+          plugin_rss: yes
+          plugin_rss_source: https://nyaa.si/?page=rss&u=Kaleido-subs
+          plugin_rss_limit: 8
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_repositories: yes
+          plugin_repositories_featured:
+            project-template
