@@ -9,7 +9,6 @@
 
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
-Jesteśmy poską grupą, która zajmuje się tworzeniem dobrej jakości fanowskich napisów do anime. 
-W razie jakichś pytań zapraszamy na naszego Discorda!
+Jesteśmy polską grupą, która zajmuje się tworzeniem dobrej jakości fanowskich napisów do anime. W razie jakichś pytań zapraszamy na naszego Discorda!
 
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
