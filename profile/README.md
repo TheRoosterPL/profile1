@@ -1,19 +1,10 @@
-<!-- TO-DO: Figure out why <style> tags don't work -->
-<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
-
-<p style="text-align: center; margin: 10px;">
-    <img src="../img/banners/banner.jpg" style="border-radius: 15px" alt="banner"></img>
-</p>
-
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <h3 align="center">Connect with us!</h3>
 <p align="center">
-    <a href="https://discord.com/servers/stalleido-subs-443264565069742080" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
-    <!-- <a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt="Website"/></a> -->
-    <a href="https://nyaa.si/user/Kaleido-subs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/cat.jpg" alt="Cat Site"/></a>
-    <a href="https://nekobt.to/groups/4397444928050" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/nekobt.png" alt="Nekobt"/></a>
-    <a href="https://bsky.app/profile/kaleido.fansubcar.tel" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/bluesky.png" alt="Bluesky" /></a>
+    <a href="https://discord.com/invite/xT7R7QNJPA" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
+    <a href="https://nekobt.to/groups/4629475342391" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/nekobt.png" alt="Nekobt"/></a>
+    <a href="https://x.com/SubsDemo" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/X.png" alt="X" /></a>
 </p>
 
 <p align="center">
