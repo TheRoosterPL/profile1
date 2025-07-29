@@ -2,9 +2,10 @@
 
 <h3 align="center">Connect with us!</h3>
 <p align="center">
-    <a href="https://discord.com/invite/xT7R7QNJPA" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 15px;" src="../img/icons/discord.png" alt="Discord" /></a>
+    <a href="https://discord.com/invite/xT7R7QNJPA" target="_blank"><img style="display: inline-block; width: 35px; height: auto; margin: 15px;" src="../img/icons/discord.png" alt="Discord" /></a>
+    <!-- <a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt="Website"/></a> -->
     <a href="https://nekobt.to/groups/4629475342391" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 15px;" src="../img/icons/nekobt.png" alt="Nekobt"/></a>
-    <a href="https://x.com/SubsDemo" target="_blank"><img style="display: inline-block; width: 30px; height: auto; margin: 15px;" src="../img/icons/X.png" alt="X" /></a>
+    <a href="https://x.com/SubsDemo" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 15px;" src="../img/icons/X.png" alt="X" /></a>
 </p>
 
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
